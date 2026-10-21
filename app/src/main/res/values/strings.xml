@@ -4,4 +4,42 @@
     <string name="last_name">Last name:</string>
     <string name="gmail">Gmail:</string>
     <string name="grade">grade:</string>
+    <string name="choose_youre_grade">choose youre grade</string>
+    <string name="choose_youre_major">choose youre major</string>
+    <string name="choose_Major">choose majore</string>
+    <string name="engeeniring">engeeniring</string>
+    <string name="history">history</string>
+    <string name="business">business</string>
+    <string name="theater">theater</string>
+    <string name="english">english</string>
+    <string name="terms_text">do you agree to the terms and conditions</string>
+    <string name="notifications_text">do you agree to recive notifications</string>
+    <string name="grade_7_12">grade 7-12</string>
+    <string name="university">University</string>
+    <string name="grade_1_6">grade 1-6</string>
+    <string-array name="major_spinner">
+        <item>@string/choose_Major</item>
+        <item>@string/engeeniring</item>
+        <item>@string/history</item>
+        <item>@string/business</item>
+        <item>@string/theater</item>
+        <item>@string/english</item>
+    </string-array>
+    <!-- תוויות להצגה בכרטיס התלמיד -->
+    <string name="label_first_name">First name: </string>
+    <string name="label_last_name">Last name: </string>
+    <string name="label_email">Gmail: </string>
+    <string name="label_grade">grade: </string>
+    <string name="label_major">Major: </string>
+    <string name="send">send</string>
+    <string name="label_notifications">Notifications: </string>
+    <!-- הודעות שגיאה ואזהרות (לטובת קוד ה-Java) -->
+    <string name="error_first_name">You didnt type in youre first name</string>
+    <string name="error_last_name">You didnt type in youre last name</string>
+    <string name="error_email">You didnt type in youre email</string>
+    <string name="not_suitable_email">the email you typed is not a suitable email</string>
+    <string name="error_grade">You didnt choose a grade</string>
+    <string name="error_major">You didnt choose a major</string>
+    <string name="error_terms">You must agree to the terms and conditions</string>
+
 </resources>
